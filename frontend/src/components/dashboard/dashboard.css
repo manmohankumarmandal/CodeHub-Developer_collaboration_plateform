@@ -1,0 +1,9 @@
+#dashboard {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  color:white;
+}
+h2{
+  margin-top: 20px;
+}
